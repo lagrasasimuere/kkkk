@@ -1772,3 +1772,21 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23443!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [04Jun2025 18:46:17.197] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at -1761 ~ 1264 after 8 tries
+[04Jun2025 19:04:57.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Jun2025 19:04:57.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jun2025 19:04:57.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jun2025 19:04:57.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jun2025 19:04:58.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Jun2025 19:05:01.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[04Jun2025 19:05:01.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Jun2025 19:05:01.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[04Jun2025 19:05:01.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Jun2025 19:05:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jun2025 19:05:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[04Jun2025 19:05:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jun2025 19:05:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[04Jun2025 19:05:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jun2025 19:05:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Jun2025 19:05:01.222] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Jun2025 19:05:01.224] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[04Jun2025 19:05:01.225] [Server thread/INFO] [Framework/]: Finished unloading server configs
