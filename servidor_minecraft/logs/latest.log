@@ -1241,3 +1241,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [04Jun2025 21:58:49.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [el_lolo: The difficulty has been set to Hard]
 [04Jun2025 21:59:57.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: el_lolo moved too quickly! 6.513595686534956,2.4461132856694263,7.682569123771259
 [04Jun2025 22:20:38.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[04Jun2025 22:32:22.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: el_lolo lost connection: Disconnected
+[04Jun2025 22:32:22.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo left the game
+[04Jun2025 22:32:22.339] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client el_lolo
