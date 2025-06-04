@@ -1,0 +1,17 @@
+{
+	id: "9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9"
+	type: "player"
+	player_name: "el_lolo"
+	ranks: {
+		9f78b2f1-2e89-3937-a21b-34c4ec7fa8e9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "el_lolo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF599D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
