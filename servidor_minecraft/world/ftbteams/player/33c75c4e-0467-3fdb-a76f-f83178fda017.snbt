@@ -1,0 +1,17 @@
+{
+	id: "33c75c4e-0467-3fdb-a76f-f83178fda017"
+	type: "player"
+	player_name: "Tio_Linguine"
+	ranks: {
+		33c75c4e-0467-3fdb-a76f-f83178fda017: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tio_Linguine"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
