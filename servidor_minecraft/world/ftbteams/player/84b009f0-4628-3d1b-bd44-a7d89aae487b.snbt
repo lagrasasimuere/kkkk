@@ -1,0 +1,17 @@
+{
+	id: "84b009f0-4628-3d1b-bd44-a7d89aae487b"
+	type: "player"
+	player_name: "Leonardodpxd"
+	ranks: {
+		84b009f0-4628-3d1b-bd44-a7d89aae487b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Leonardodpxd"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59FE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
