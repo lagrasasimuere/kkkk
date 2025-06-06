@@ -1955,3 +1955,19 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [06Jun2025 03:48:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Pic-A-Nic Basket?]
 [06Jun2025 03:49:03.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd has made the advancement [Acquire Hardware]
 [06Jun2025 03:49:12.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: el_lolo moved too quickly! -10.131757968615148,-1.5416689620261792,-1.5589861293432818
+[06Jun2025 03:54:02.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18234, l='ServerLevel[world]', x=485.04, y=75.00, z=-398.06] died, message: 'Villager was slain by Zombie'
+[06Jun2025 03:54:07.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18195, l='ServerLevel[world]', x=526.86, y=72.00, z=-479.70] died, message: 'Villager was slain by Zombie'
+[06Jun2025 03:56:44.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leonardodpxd lost connection: Disconnected
+[06Jun2025 03:56:44.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leonardodpxd left the game
+[06Jun2025 03:56:44.454] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Leonardodpxd
+[06Jun2025 03:57:23.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/12676, l='ServerLevel[world]', x=638.66, y=71.00, z=-465.38] died, message: 'Arms Dealer was slain by Zombie Horse'
+[06Jun2025 03:57:26.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/12857, l='ServerLevel[world]', x=659.45, y=66.50, z=-528.12] died, message: 'Arms Dealer was slain by Zombie Horse'
+[06Jun2025 03:57:59.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/11939, l='ServerLevel[world]', x=619.70, y=64.00, z=-531.30] died, message: 'Nitwit was slain by Zombie Horse'
+[06Jun2025 03:58:57.681] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[06Jun2025 04:01:01.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo has made the advancement [Stone Age]
+[06Jun2025 04:02:41.629] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[06Jun2025 04:03:34.575] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[06Jun2025 04:03:38.177] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[06Jun2025 04:13:22.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: el_lolo lost connection: Disconnected
+[06Jun2025 04:13:22.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: el_lolo left the game
+[06Jun2025 04:13:22.740] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client el_lolo
