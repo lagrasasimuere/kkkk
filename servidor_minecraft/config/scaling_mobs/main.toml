@@ -1,34 +1,34 @@
 
 [Misc]
 	#If true, mob stats will increase exponentially
-	"Use Exponential Scaling" = false
+	"Use Exponential Scaling" = true
 	#After this day in the Minecraft world, all hostile mobs will be immune to burning in daylight
 	#Range: > 0
-	"Mobs Stop Burning on Day" = 7
+	"Mobs Stop Burning on Day" = 1
 	#A list of mobs that will scale, even if they're not monsters
 	"Mob Whitelist" = []
 
 [Health]
 	#The decimal amount that hostile mobs' health increase per day
 	#Range: 0.0 ~ Infinity
-	"Health Scale Rate" = 0.005
+	"Health Scale Rate" = 0.01
 	#The decimal amount of the mobs' base health in the beginning
 	#Range: 0.0 ~ Infinity
 	"Mob Health Base" = 1.0
 	#The maximum amount that hostile mobs' damage can scale to
 	#Range: 0.0 ~ Infinity
-	"Max Scaled Health" = 2.5
+	"Max Scaled Health" = 25.0
 
 [Damage]
 	#The decimal amount that hostile mobs' damage increase per day
 	#Range: 0.0 ~ Infinity
-	"Damage Scale Rate" = 0.005
+	"Damage Scale Rate" = 0.01
 	#The decimal amount of the mobs' base damage in the beginning
 	#Range: 0.0 ~ Infinity
 	"Mob Damage Base" = 1.0
 	#The maximum amount that hostile mobs' damage can scale to
 	#Range: 0.0 ~ Infinity
-	"Max Scaled Damage" = 2.0
+	"Max Scaled Damage" = 5.0
 
 [Speed]
 	#The decimal amount that hostile mobs' speed increase per day
@@ -39,7 +39,7 @@
 	"Mob Speed Base" = 1.0
 	#The maximum amount that hostile mobs' speed can scale to
 	#Range: 0.0 ~ Infinity
-	"Max Scaled Speed" = 1.5
+	"Max Scaled Speed" = 1.8
 
 ["Armor Piercing"]
 	#The decimal amount of increase to mobs' damage that ignores armor per day
@@ -50,7 +50,7 @@
 	"Armor Piercing Base" = 0.1
 	#The maximum amount of increase to mobs' damage that ignores armor
 	#Range: 0.0 ~ 1.0
-	"Max Scaled Armor Piercing" = 0.5
+	"Max Scaled Armor Piercing" = 0.6
 
 [Drops]
 	#The decimal amount of increase to mobs' drops per day
@@ -61,5 +61,5 @@
 	"Mob Drops Base" = 1.0
 	#The maximum amount of increase to mobs' drops
 	#Range: 0.0 ~ Infinity
-	"Max Scaled Mob Drops" = 2.0
+	"Max Scaled Mob Drops" = 2.5
 
