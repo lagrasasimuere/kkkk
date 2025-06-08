@@ -1,0 +1,17 @@
+{
+	id: "3200c975-c446-33aa-86bd-3a013cbfbe7d"
+	type: "player"
+	player_name: "izanrb7"
+	ranks: {
+		3200c975-c446-33aa-86bd-3a013cbfbe7d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "izanrb7"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

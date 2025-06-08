@@ -83,6 +83,8 @@
       "minecraft:river": "2025-06-04 21:56:44 +0000",
       "minecraft:cold_ocean": "2025-06-07 00:36:15 +0000",
       "minecraft:forest": "2025-06-04 22:14:10 +0000",
+      "minecraft:ocean": "2025-06-07 01:08:21 +0000",
+      "minecraft:flower_forest": "2025-06-07 01:09:53 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 19:11:08 +0000",
       "minecraft:plains": "2025-06-04 19:11:21 +0000"
     },
@@ -1819,6 +1821,18 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-06 04:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-07 00:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-06-07 00:51:44 +0000"
     },
     "done": true
   },

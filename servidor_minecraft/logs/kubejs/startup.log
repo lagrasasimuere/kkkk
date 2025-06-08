@@ -1,7 +1,7 @@
-[00:29:00] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[00:29:00] [INIT] Loaded plugins:
-[00:29:00] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[00:29:01] [INFO] Loaded script startup_scripts:disabledOres.js in 0.217 s
-[00:29:01] [INFO] Loaded script startup_scripts:cwstartuptweaks.js in 0.002 s
-[00:29:01] [INFO] Loaded script startup_scripts:matt's_stims_startup.js in 0.036 s
-[00:29:01] [INFO] Loaded 3/3 KubeJS startup scripts in 0.986 s with 0 errors and 0 warnings
+[00:30:48] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[00:30:48] [INIT] Loaded plugins:
+[00:30:48] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:30:48] [INFO] Loaded script startup_scripts:disabledOres.js in 0.099 s
+[00:30:48] [INFO] Loaded script startup_scripts:cwstartuptweaks.js in 0.003 s
+[00:30:48] [INFO] Loaded script startup_scripts:matt's_stims_startup.js in 0.044 s
+[00:30:48] [INFO] Loaded 3/3 KubeJS startup scripts in 0.63 s with 0 errors and 0 warnings
